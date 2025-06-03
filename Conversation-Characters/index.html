@@ -17,7 +17,7 @@
         <link rel="next" href="../Node-Descriptions/">
       
       
-      <link rel="icon" href="../assets/conversation-asset.png">
+      <link rel="icon" href="../assets/logo.png">
       <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.14">
     
     
@@ -82,6 +82,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#conversation-characters" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -96,7 +101,7 @@
   <nav class="md-header__inner md-grid" aria-label="Header">
     <a href=".." title="ConvoMaker Documentation" class="md-header__button md-logo" aria-label="ConvoMaker Documentation" data-md-component="logo">
       
-  <img src="../assets/conversation-asset.png" alt="logo">
+  <img src="../assets/logo.png" alt="logo">
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
@@ -179,7 +184,7 @@
   <label class="md-nav__title" for="__drawer">
     <a href=".." title="ConvoMaker Documentation" class="md-nav__button md-logo" aria-label="ConvoMaker Documentation" data-md-component="logo">
       
-  <img src="../assets/conversation-asset.png" alt="logo">
+  <img src="../assets/logo.png" alt="logo">
 
     </a>
     ConvoMaker Documentation
@@ -238,28 +243,6 @@
   
   
     <li class="md-nav__item">
-      <a href="../Conversation-Manager/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    Conversation Manager
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    <li class="md-nav__item">
       <a href="../Conversation-Colors/" class="md-nav__link">
         
   
@@ -287,6 +270,8 @@
       
       <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
       
+      
+        
       
       
       <a href="./" class="md-nav__link md-nav__link--active">
@@ -344,7 +329,7 @@
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
         
           
           <div class="md-nav__link md-nav__container">
@@ -361,14 +346,14 @@
             </a>
             
               
-              <label class="md-nav__link " for="__nav_6" id="__nav_6_label" tabindex="0">
+              <label class="md-nav__link " for="__nav_5" id="__nav_5_label" tabindex="0">
                 <span class="md-nav__icon md-icon"></span>
               </label>
             
           </div>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_6">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
             <span class="md-nav__icon md-icon"></span>
             Node Descriptions
           </label>
@@ -615,7 +600,7 @@
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
         
           
           <div class="md-nav__link md-nav__container">
@@ -632,14 +617,14 @@
             </a>
             
               
-              <label class="md-nav__link " for="__nav_7" id="__nav_7_label" tabindex="0">
+              <label class="md-nav__link " for="__nav_6" id="__nav_6_label" tabindex="0">
                 <span class="md-nav__icon md-icon"></span>
               </label>
             
           </div>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_7">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
             <span class="md-nav__icon md-icon"></span>
             User-Interface
           </label>
@@ -712,7 +697,7 @@
   
   
   <span class="md-ellipsis">
-    Settings
+    ConvoMaker Global Settings
     
   </span>
   
@@ -739,6 +724,8 @@
   
   
   
+    
+  
   
 </nav>
                   </div>
@@ -754,9 +741,16 @@
 
 
 
-  <h1>Conversation Characters</h1>
-
-
+<h1 id="conversation-characters">Conversation Characters</h1>
+<figure>
+  <a class="glightbox" href="../assets/conversation-character.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="Image title" src="../assets/conversation-character.png" /></a>
+</figure>
+<p><br></p>
+<p>The Conversation Character holds personalized information for each character in dialogue. Most nodes have a character slot to determine which characters says the line in the node.</p>
+<div class="admonition info">
+<p class="admonition-title">Player Characters</p>
+<p>Some nodes need a <code>Conversation Player Character</code> instead of a normal Conversation Character. Conversation Player Characters represent the ingame player and have more agency than the standard Conversation Character. (Also see <a href="../User-Interface/Conversation-Controller/">Conversation Controller</a>.)</p>
+</div>
 
 
 
