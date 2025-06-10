@@ -2,82 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://sitename.example/</loc>
-         <lastmod>2025-06-03</lastmod>
+         <lastmod>2025-06-10</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/Conversation-Characters/</loc>
-         <lastmod>2025-06-03</lastmod>
+         <lastmod>2025-06-10</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/Conversation-Colors/</loc>
-         <lastmod>2025-06-03</lastmod>
+         <lastmod>2025-06-10</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/Conversation-Manager/</loc>
-         <lastmod>2025-06-03</lastmod>
+         <lastmod>2025-06-10</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/Getting-Started/</loc>
-         <lastmod>2025-06-03</lastmod>
+         <lastmod>2025-06-10</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/Settings/</loc>
-         <lastmod>2025-06-03</lastmod>
+         <lastmod>2025-06-10</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/Node-Descriptions/</loc>
-         <lastmod>2025-06-03</lastmod>
+         <lastmod>2025-06-10</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/Node-Descriptions/Branch-Node/</loc>
-         <lastmod>2025-06-03</lastmod>
+         <lastmod>2025-06-10</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/Node-Descriptions/Choice-Node/</loc>
-         <lastmod>2025-06-03</lastmod>
+         <lastmod>2025-06-10</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/Node-Descriptions/Choice-Option-Node/</loc>
-         <lastmod>2025-06-03</lastmod>
+         <lastmod>2025-06-10</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/Node-Descriptions/Comparison-Nodes/</loc>
-         <lastmod>2025-06-03</lastmod>
+         <lastmod>2025-06-10</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/Node-Descriptions/Entry-Node/</loc>
-         <lastmod>2025-06-03</lastmod>
+         <lastmod>2025-06-10</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/Node-Descriptions/Exit-Node/</loc>
-         <lastmod>2025-06-03</lastmod>
+         <lastmod>2025-06-10</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/Node-Descriptions/Loading-and-Saving-Nodes/</loc>
-         <lastmod>2025-06-03</lastmod>
+         <lastmod>2025-06-10</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/Node-Descriptions/Open-Ended-Question-Node/</loc>
-         <lastmod>2025-06-03</lastmod>
+         <lastmod>2025-06-10</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/Node-Descriptions/Sentence-Node/</loc>
-         <lastmod>2025-06-03</lastmod>
+         <lastmod>2025-06-10</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/User-Interface/</loc>
-         <lastmod>2025-06-03</lastmod>
+         <lastmod>2025-06-10</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/User-Interface/Building-UI/</loc>
-         <lastmod>2025-06-03</lastmod>
+         <lastmod>2025-06-10</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/User-Interface/Conversation-Controller/</loc>
-         <lastmod>2025-06-03</lastmod>
+         <lastmod>2025-06-10</lastmod>
     </url>
     <url>
          <loc>https://sitename.example/User-Interface/Conversation-Participant/</loc>
-         <lastmod>2025-06-03</lastmod>
+         <lastmod>2025-06-10</lastmod>
     </url>
 </urlset>
